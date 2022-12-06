@@ -1,0 +1,4 @@
+body {background-color: grey;}
+h1 {color: blue;}
+.friend{background-color: orange;}
+.friend>h3{text-transform: uppercase;}
