@@ -2,15 +2,15 @@
 Covalence
 
 ## Info
-* This lab consists of two parts
+<!-- * This lab consists of two parts
 * In this second iteration you will be transforming part 1 of the lab
-* You should copy your files from part 1 and paste them along with this README file into a new folder linked to a new github repository
+* You should copy your files from part 1 and paste them along with this README file into a new folder linked to a new github repository -->
 
 ### New Objectives
-* Put a `button` in the HTML that says `Sing!`
-    * Stepping Stone: When you click the button, all the `console.log` statements from yesterday should happen. They SHOULD NOT happen before the button is clicked.
+<!-- * Put a `button` in the HTML that says `Sing!`
+    * Stepping Stone: When you click the button, all the `console.log` statements from yesterday should happen. They SHOULD NOT happen before the button is clicked. -->
 * When you have the button setup and working correctly as described, then:
-    * Delete the `div` with class `friend` and the headings and paragraphs it contains from your html file
+    <!-- * Delete the `div` with class `friend` and the headings and paragraphs it contains from your html file -->
     * Go to your code where you are "singing the song" and accomplish the following using DOM:
         * For every one of your friends, create a `div` with class `friend`
         * Put an `h3` containing your friend's name in the div
