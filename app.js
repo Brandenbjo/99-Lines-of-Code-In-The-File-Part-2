@@ -21,11 +21,10 @@ function makefriend() {
 
 
 
-    let friend = friends[0];
 
     for (let j = 99; j > 0; j--) {
         if (j > 2) { // 99 to 2 ..."lines of"... 
-            console.log(j + " lines of code in the file, " + j + " lines of code; " + friend + " strikes one out, clears it all out, " + (j - 1) + " lines of code in the file.");
+            console.log(j + " lines of code in the file, " + j + " lines of code; " + friend[4] + " strikes one out, clears it all out, " + (j - 1) + " lines of code in the file.");
         } else if (j == 2) { // 2 == plural. 
             console.log(j + " lines of code in the file, " + j + " lines of code; " + friend + " strikes one out, clears it all out, " + (j - 1) + " line of code in the file.");
         } else if (j == 1) { // 1 == singular.
@@ -96,10 +95,6 @@ function sing() {
 
 }
 
-
-for (let j = 99; j >= 0; j--) {
-    console.log(j + ' lines of code in the file, ' + j + ' lines of code; ' + friend + ' strikes one out, clears it all out, ' + j + ' lines of code in the file')
-}
 
 
 
